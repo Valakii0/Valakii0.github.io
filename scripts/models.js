@@ -4,42 +4,42 @@ models = JSON.parse(`{
     "models": [
       {
         "name": "Rolls-Royce Phantom I",
-        "description": "The original Phantom, introduced in 1925, marked the beginning of Rolls-Royce's legacy of producing exceptional luxury automobiles. It set the standard for craftsmanship and engineering in its time.",
+        "description": "Az eredeti Phantom, amelyet 1925-ben mutattak be, a Rolls-Royce kivételes luxusautók gyártásának hagyományának kezdetét jelentette. Ez állította be az igényesség és a mérnöki kiválóság mércéjét a korában.",
         "image": "../images/model1.png"
       },
       {
         "name": "Rolls-Royce Phantom II",
-        "description": "The Phantom II, introduced in 1929, continued the tradition of luxury and elegance. It featured an improved chassis and engine, making it a symbol of sophistication during the early 20th century.",
+        "description": "A Phantom II, 1929-ben bemutatva, folytatta a luxus és az elegancia hagyományát. Javított vázszerkezettel és motorkialakítással rendelkezett, ami a 20. század elején a szofisztikáltság szimbólumává tette.",
         "image": "../images/model2.png"
       },
       {
         "name": "Rolls-Royce Phantom III",
-        "description": "The Phantom III, introduced in 1936, represented the pinnacle of pre-war luxury motoring. Known for its V12 engine and advanced technology, it solidified Rolls-Royce's reputation for engineering excellence.",
+        "description": "A Phantom III, amelyet 1936-ban vezettek be, a háború előtti luxusautózás csúcsát képviselte. A V12 motorja és a fejlett technológiája révén megszilárdította a Rolls-Royce hírnevét a mérnöki kiválóság terén.",
         "image": "../images/model3.png"
       },
       {
         "name": "Rolls-Royce Phantom IV",
-        "description": "The Phantom IV, produced in limited numbers from 1950 to 1956, was a bespoke model created exclusively for royalty and heads of state. Its exclusivity and opulence made it a symbol of prestige.",
+        "description": "A Phantom IV, amelyet 1950 és 1956 között korlátozott számban gyártottak, egyedi modell volt, kizárólag a királyi családok és államfők részére készült. Exkluzivitása és pompa jelképévé vált.",
         "image": "../images/model4.png"
       },
       {
         "name": "Rolls-Royce Phantom V",
-        "description": "The Phantom V, introduced in 1959, was a popular choice among celebrities and dignitaries. Its spacious interior and luxurious features made it the epitome of chauffeur-driven elegance during the 1960s.",
+        "description": "A Phantom V, amelyet 1959-ben mutattak be, népszerű választás volt a hírességek és méltóságok körében. Tágas belső tere és luxusfelszereltsége a 60-as években az autóvezető elegancia csúcsát jelentette.",
         "image": "../images/model5.png"
       },
       {
         "name": "Rolls-Royce Phantom VI",
-        "description": "The Phantom VI, produced from 1968 to 1990, continued the tradition of luxury and grandeur. It was often used for state occasions and represented the pinnacle of automotive excellence during its era.",
+        "description": "A Phantom VI, amelyet 1968-tól 1990-ig gyártottak, folytatta a luxus és a grandiózum hagyományát. Gyakran használták állami eseményekhez és az autóipar kiválóságának csúcsát képviselte abban az időszakban.",
         "image": "../images/model6.png"
       },
       {
         "name": "Rolls-Royce Phantom VII",
-        "description": "The Phantom VII, introduced in 2003, marked a modern renaissance for the Phantom series. It combined classic design elements with contemporary technology, reaffirming Rolls-Royce's position at the forefront of luxury motoring.",
+        "description": "A Phantom VII, amelyet 2003-ban mutattak be, egy modern reneszánsz volt a Phantom sorozat számára. Klasszikus dizájn elemeit kombinálta a kortárs technológiával, megerősítve a Rolls-Royce pozícióját a luxusautózás élén.",
         "image": "../images/model7.png"
       },
       {
         "name": "Rolls-Royce Phantom VIII",
-        "description": "The latest iteration of the iconic luxury sedan. Known for its unparalleled craftsmanship, the Phantom VIII offers a sublime driving experience with opulent interiors and cutting-edge technology. It continues the legacy of the Phantom series as the pinnacle of automotive luxury.",
+        "description": "Az ikonikus luxus szedán legújabb változata. Ismert a páratlan kézműves munkájáról, a Phantom VIII lenyűgöző vezetési élményt kínál pompás belső terekkel és élvonalbeli technológiával. Folytatja a Phantom sorozat örökségét, mint az autóipar luxusának csúcsa.",
         "image": "../images/model8.png"
       }
     ]

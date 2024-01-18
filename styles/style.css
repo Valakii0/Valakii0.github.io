@@ -13,8 +13,8 @@ html {
 }
 
 body {
-    min-height: 100vh;
     display: grid;
+    min-height: 100vh;
     background: linear-gradient(129deg, rgba(88,89,92,1) 0%, rgba(64,61,61,1) 33%, rgba(27,26,26,1) 66%, rgba(19,19,19,1) 100%);
     font-family: 'Poppins', sans-serif;
     color: var(--primary-font-color);
@@ -35,7 +35,7 @@ footer {
     overflow: visible;
     position: sticky;
     display: flex;
-    height: 6vw;
+    height: 10vh;
     width: 100%;
     top: 0px;
 }
@@ -122,6 +122,27 @@ footer {
     }
     100% {
         transform: scale(100%, 100%);
+    }
+}
+
+@media (max-width: 600px) {
+
+    .material-symbols-outlined {
+        font-size: 10rem;
+    }
+
+    #dropdown-menu-div div:last-child a {
+        width: 90vw;
+        padding: 3rem;
+        font-size: 4rem;
+    }
+
+    #menu-div #time-div {
+        font-size: 4rem;
+    }
+
+    footer {
+        font-size: 3rem;
     }
 }
 
