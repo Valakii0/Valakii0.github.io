@@ -1,0 +1,36 @@
+header {
+    position: sticky;
+    top: 0;
+}
+
+#models-div > div {
+    display: flex;
+    align-items: center;
+    background-color: var(--primary-color);
+    margin: 10%;
+    padding: 3%;
+    border-radius: 2rem;
+}
+
+#models-div img {
+    margin: 2rem;
+    border-radius: 1.5rem;
+    width: 40%;
+}
+
+#models-div h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 3rem;
+}
+
+#models-div p {
+    margin-top: 0px;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+#models-div div {
+    padding: 2rem;
+    padding-top: 1rem;
+}
