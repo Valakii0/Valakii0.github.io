@@ -34,6 +34,11 @@ header img {
     width: 100%;
 }
 
+table, td, th, tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
 @media (max-width: 600px) {
 
     header {
