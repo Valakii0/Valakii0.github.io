@@ -35,7 +35,7 @@ header img {
 }
 
 #hidden {
-    
+    display: none;
 }
 
 table, td, th, tr {
