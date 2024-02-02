@@ -37,6 +37,7 @@ footer {
     position: sticky;
     display: flex;
     height: 10vh;
+    width: 100%;
     top: 0px;
 }
 
