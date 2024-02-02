@@ -34,9 +34,17 @@ header img {
     width: 100%;
 }
 
+#hidden {
+    
+}
+
 table, td, th, tr {
-    border: 10px solid white;
+    border: 0.5rem solid white;
     border-collapse: collapse;
+}
+
+ul {
+    list-style-type: square;
 }
 
 @media (max-width: 600px) {
